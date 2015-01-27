@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="//strayed-bits.dev/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url><loc>http://www.strayed-bits.net/</loc><changefreq>daily</changefreq><priority>1.0</priority></url>
+<url><loc>http://www.strayed-bits.net/about</loc><lastmod>2012-07-12T23:23Z</lastmod><changefreq>never</changefreq></url>
+<url><loc>http://www.strayed-bits.net/php-53-closures</loc><lastmod>2012-10-10T16:39Z</lastmod><changefreq>never</changefreq></url>
+<url><loc>http://www.strayed-bits.net/require-element-only-if-another-element-set</loc><lastmod>2013-07-26T00:14Z</lastmod><changefreq>yearly</changefreq></url>
+<url><loc>http://www.strayed-bits.net/software-architecture-1</loc><lastmod>2012-07-16T15:58Z</lastmod><changefreq>never</changefreq></url>
+<url><loc>http://www.strayed-bits.net/stand-alone-zend-form-example</loc><lastmod>2012-07-30T15:31Z</lastmod><changefreq>never</changefreq></url>
+<url><loc>http://www.strayed-bits.net/git-essentials</loc><lastmod>2012-09-20T23:02Z</lastmod><changefreq>never</changefreq></url>
+<url><loc>http://www.strayed-bits.net/programatically-post-data</loc><lastmod>2012-07-30T21:36Z</lastmod><changefreq>never</changefreq></url>
+<url><loc>http://www.strayed-bits.net/stand-alone-zend-form-composite-element</loc><lastmod>2012-08-08T20:28Z</lastmod><changefreq>never</changefreq></url>
+<url><loc>http://www.strayed-bits.net/zend-form-custom-validation</loc><lastmod>2012-08-09T15:50Z</lastmod><changefreq>never</changefreq></url>
+<url><loc>http://www.strayed-bits.net/zend-framework-stand-alone-upload-form</loc><lastmod>2012-09-21T03:17Z</lastmod><changefreq>never</changefreq></url>
+<url><loc>http://www.strayed-bits.net/php-53-anonymous-function</loc><lastmod>2012-10-08T21:05Z</lastmod><changefreq>never</changefreq></url>
+<url><loc>http://www.strayed-bits.net/tags/software-architecture</loc></url>
+<url><loc>http://www.strayed-bits.net/tags/zend-form-element-file</loc></url>
+<url><loc>http://www.strayed-bits.net/tags/file-upload</loc></url>
+<url><loc>http://www.strayed-bits.net/tags/php-53</loc></url>
+<url><loc>http://www.strayed-bits.net/tags/anonymous-function</loc></url>
+<url><loc>http://www.strayed-bits.net/tags/closures</loc></url>
+<url><loc>http://www.strayed-bits.net/tags/software-architecture-series-1</loc></url>
+<url><loc>http://www.strayed-bits.net/tags/zend-framework-1x</loc></url>
+<url><loc>http://www.strayed-bits.net/tags/zend-form</loc></url>
+<url><loc>http://www.strayed-bits.net/tags/git</loc></url>
+<url><loc>http://www.strayed-bits.net/tags/php</loc></url>
+<url><loc>http://www.strayed-bits.net/tags/composite-element</loc></url>
+<url><loc>http://www.strayed-bits.net/tags/view-helper</loc></url>
+<url><loc>http://www.strayed-bits.net/tags/zend-validate</loc></url>
+</urlset>
